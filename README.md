@@ -1,2 +1,2 @@
 # fsd12
-this is fsd class
+this is fsd class 2
